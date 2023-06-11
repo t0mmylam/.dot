@@ -2,7 +2,7 @@
 
 ## Description
 
-Repo to setup and replicate my dev environment on any 64-bit macOS or Debian system.
+Repository to setup and replicate my dev environment on any 64-bit macOS or Debian system.
 
 ## Getting Started
 
@@ -15,6 +15,6 @@ Repo to setup and replicate my dev environment on any 64-bit macOS or Debian sys
 ### Executing program
 
 ```
-git clone git@github.com:t0mmylam/.dot.git ~/.dotfiles
-cd ~/.dotfiles && ./setup.sh
+git clone git@github.com:t0mmylam/.dot.git ~/.dot
+cd ~/.dot && ./setup.sh
 ```
